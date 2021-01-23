@@ -1,4 +1,4 @@
-# wabot-aq
+# KANNAPI 3.0
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
