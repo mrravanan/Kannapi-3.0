@@ -36,6 +36,6 @@ Simple WhatsApp Bot
 
 # Sosmed And Creator
 ```thanks
-> Instagram: @arpunchs
-> YouTube: Drawl Nag
-> CREDIT: NUROTOMO
+> Instagram: https://instagram.com/__mr_ravanan?igshid=1lu9qhoz5czrn
+> YouTube: https://youtube.com/c/MrRavanan
+> CREDIT: mr.ravanan ™
